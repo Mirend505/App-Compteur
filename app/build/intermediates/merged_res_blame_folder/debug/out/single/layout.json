@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Bertix\\.gradle\\daemon\\8.2\\com.example.appmirenda.app-mergeDebugResources-49:\\layout\\activity_main2.xml",
+        "source": "C:\\Users\\Bertix\\.gradle\\daemon\\8.2\\com.example.appmirenda.app-main-52:\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bertix\\.gradle\\daemon\\8.2\\com.example.appmirenda.app-mergeDebugResources-49:\\layout\\list_pays.xml",
+        "source": "C:\\Users\\Bertix\\.gradle\\daemon\\8.2\\com.example.appmirenda.app-main-52:\\layout\\list_pays.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bertix\\.gradle\\daemon\\8.2\\com.example.appmirenda.app-mergeDebugResources-49:\\layout\\dialoguefilelist.xml",
+        "source": "C:\\Users\\Bertix\\.gradle\\daemon\\8.2\\com.example.appmirenda.app-main-52:\\layout\\dialoguefilelist.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bertix\\.gradle\\daemon\\8.2\\com.example.appmirenda.app-mergeDebugResources-49:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Bertix\\.gradle\\daemon\\8.2\\com.example.appmirenda.app-main-52:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.appmirenda.app-mergeDebugResources-49:/layout/activity_main.xml",
+        "source": "com.example.appmirenda.app-main-52:/layout/activity_main.xml"
+    }
+]
